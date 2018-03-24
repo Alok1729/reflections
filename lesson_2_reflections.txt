@@ -8,9 +8,11 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-    -   Staging area contains only those files from the working directory
-        whose versions we want git to track
-    -   Provides flexibility in terms of the files to be tracked
+    -   Staging area is an intermediate logical location where we can place
+        any changed files before committing the change to repository
+    -   Provides flexibility by allowing a subset of changes to be committed
+    -   Allows us to select files from the working directory which we want to
+        track using git
 
 How can you use the staging area to make sure you have one commit per logical
 change?
