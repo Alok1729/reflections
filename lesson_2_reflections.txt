@@ -40,3 +40,7 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+    -   Automatic merge can combine large number of changes without requiring
+        human intervention
+    -   Automatic merge can get stuck due to conflicts which need manual
+        intervention to be resolved
