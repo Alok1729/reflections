@@ -22,6 +22,10 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+    -   Experimenting with new features in program
+    -   Working on changes that might be deemed risky for master branches
+    -   Branches help by allowing changes to be committed to a branch without
+        affecting any other branches
 
 How do the diagrams help you visualize the branch structure?
 
