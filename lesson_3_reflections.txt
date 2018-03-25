@@ -35,4 +35,8 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    - When collaborating with others it is useful to work on a separate branch
+      and create pull requests to merge our changes into master branch. Using
+      pull requests this way gives an opportunity to the collaborators to review
+      the changes in the side-branch before they are merged to the main branch.
+      In this way every collaborator is aware of the state of master branch.
